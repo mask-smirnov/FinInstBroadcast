@@ -1,0 +1,6 @@
+@FinInstWssServer_HostAddress = http://localhost:5120
+
+GET {{FinInstWssServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

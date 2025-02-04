@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinInstWssClient", "FinInstWssClient\FinInstWssClient.csproj", "{7D00E434-F323-4131-A953-01D212E36799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{B00EE831-F86C-451E-AD7A-189B1C19BB4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinInstUtils", "FinInstUtils\FinInstUtils.csproj", "{0511D2FF-F4E3-493F-922E-1DC77568AF74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinInstWssServer", "FinInstWssServer\FinInstWssServer.csproj", "{F837B232-67D8-4C69-8828-C376854027D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D00E434-F323-4131-A953-01D212E36799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D00E434-F323-4131-A953-01D212E36799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D00E434-F323-4131-A953-01D212E36799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D00E434-F323-4131-A953-01D212E36799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00EE831-F86C-451E-AD7A-189B1C19BB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00EE831-F86C-451E-AD7A-189B1C19BB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00EE831-F86C-451E-AD7A-189B1C19BB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00EE831-F86C-451E-AD7A-189B1C19BB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0511D2FF-F4E3-493F-922E-1DC77568AF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0511D2FF-F4E3-493F-922E-1DC77568AF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0511D2FF-F4E3-493F-922E-1DC77568AF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0511D2FF-F4E3-493F-922E-1DC77568AF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F837B232-67D8-4C69-8828-C376854027D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F837B232-67D8-4C69-8828-C376854027D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F837B232-67D8-4C69-8828-C376854027D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F837B232-67D8-4C69-8828-C376854027D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
